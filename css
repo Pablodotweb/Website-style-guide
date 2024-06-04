@@ -1,0 +1,146 @@
+.page-title {
+    text-align: center;
+    font-size: 75px;
+    font-weight: 900;
+    font-family: "Playfair Display", serif;
+    background-color: rgba(210, 208, 207, 0.8);
+    color: rgba(248, 183, 119, 0.8);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border: 3px solid black;
+}
+
+
+h2 {
+    font-family: "Tomorrow", sans-serif; 
+    font-weight: 600;
+    font-size: 28px;
+}
+  
+
+.container {
+    border: 3px solid black;
+    padding: 20px 200px 20px 20px;
+    margin-bottom: 20px;
+}
+
+
+.color-panel1 {
+    background-color: rgba(248, 183, 119, 0.8);
+    border: 1px solid black;
+    margin: 0px 900px 0px 0px;
+    text-align: center;
+
+}
+
+.color-panel2 {
+    background-color: rgba(210, 208, 207, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    margin: 0px 522px 0px 378px;
+}
+
+.color-panel3 {
+    background-color: rgba(206, 187, 224, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    margin: 0px 144px 0px 756px;
+}
+    
+
+
+.color-panel4 {
+    background-color: rgba(174, 225, 228, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    margin: 0px -200px 0px 1134px;
+}
+
+
+
+
+.font-panel1 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+  }
+
+  .font-label1 {
+    text-decoration: underline;
+    font-size: larger;
+  }
+
+  .bold1 {
+    font-weight: bold;
+  }
+
+  .italic1 {
+    font-style: italic;
+  }
+
+
+
+
+  .font-panel2{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0px 100px 0px 500px;
+  }
+  
+  .font-label2 {
+    text-decoration: underline;
+    font-size: larger;
+    
+  }
+
+  .bold2 {
+    font-weight: bold;
+  }
+
+  .italic2 {
+    font-style: italic;
+  }
+
+
+  .font-panel3 {
+        font-family: "Tomorrow", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        margin: 0px -200px 0px 1000px
+      
+  }
+
+  .font-label3 {
+    text-decoration: underline;
+    font-size: larger;
+    
+  }
+
+  .bold3 {
+    font-weight: bold;
+  }
+
+  .italic3 {
+    font-style: italic;
+  }
+
+  .text-panel1 {
+    font-family: "Playfair Display", serif;
+  }
+
+  .text-panel2 {
+    font-family: "Tomorrow", sans-serif;
+    margin: 0px 100px 0px 500px;
+
+  }
+
+  .text-panel3 {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0px -200px 0px 1000px
+  }
